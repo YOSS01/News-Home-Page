@@ -1,7 +1,7 @@
 {
   "homepage" : "https://yoss01.github.io/News-Home-Page/",
-  "predeploy":"npm run build",
-  "deploy":"gh-pages -d build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "news-home-page",
   "version": "0.1.0",
   "private": true,
